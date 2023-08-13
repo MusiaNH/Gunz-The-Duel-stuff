@@ -34,3 +34,10 @@ Mansion_Gallery_quest
 Tengri_quest_2
 
 ![Tengri_quest_2](https://github.com/MusiaNH/Gunz-The-Duel-stuff/assets/141134435/f3a9c67a-4ad9-4893-a025-2065c871728a)
+
+PRISON 
+
+Prison_new_drinage2
+
+![GunZ001](https://github.com/MusiaNH/Gunz-The-Duel-stuff/assets/141134435/a984fdd4-b947-460a-8373-04d4b55595c8)
+
